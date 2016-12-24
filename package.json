@@ -1,0 +1,20 @@
+{
+  "name": "eslint-config-rear",
+  "version": "1.0.0",
+  "description": "Shareable ESLint configurations used by Rear",
+  "main": "index.js",
+  "repository": "https://github.com/rearjs/eslint-config-rear.git",
+  "bugs": {
+    "url": "https://github.com/rearjs/eslint-config-rear/issues"
+  },
+  "author": "Roberto Mauro <erremauro@icloud.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.12.2",
+    "eslint-plugin-flowtype": "^2.29.1",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^3.0.2",
+    "eslint-plugin-react": "^6.8.0"
+  }
+}
