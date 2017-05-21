@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-rear",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Shareable ESLint configurations used by Rear",
   "main": "index.js",
   "repository": "https://github.com/rearjs/eslint-config-rear.git",
