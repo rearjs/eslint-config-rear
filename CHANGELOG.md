@@ -9,8 +9,8 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 React specific rules were removed. Use `eslint-pluin-react` instead.
 
-* #1 Remove `eslint-plugin-jsx-a11y`
-* #1 Remove `eslint-plugin-react`
+* [#1](https://github.com/rearjs/eslint-config-rear/pull/1) Remove `eslint-plugin-jsx-a11y`
+* [#1](https://github.com/rearjs/eslint-config-rear/pull/1) Remove `eslint-plugin-react`
 
 #### :house: Internal
 
