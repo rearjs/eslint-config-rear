@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] (2017-08-09)
+
+#### :bug: Bug Fix
+
+* [#3] Remove `jsx-a11y` and `react` plugin requirement from eslint configurations.
+
+#### :house: Internal
+
+* Update peer dependencies versions.
+
 ## [2.0.0] (2017-08-09)
 
 #### :boom: Breaking Changes
@@ -29,9 +39,11 @@ React specific rules were removed. Use `eslint-pluin-react` instead.
 * Update `eslint-plugin-jsx-a11y` to v4.0.0
 
 
+[#3]: https://github.com/rearjs/eslint-config-rear/pull/3
 [#2]: https://github.com/rearjs/eslint-config-rear/pull/2
 [#1]: https://github.com/rearjs/eslint-config-rear/pull/1
 
+[2.0.1]: https://github.com/rearjs/eslint-config-rear/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/rearjs/eslint-config-rear/compare/1.0.4...2.0.0
 [1.0.4]: https://github.com/rearjs/eslint-config-rear/compare/1.0.1...1.0.4
 [1.0.1]: https://github.com/rearjs/eslint-config-rear/tree/1.0.1
