@@ -9,12 +9,12 @@ This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html
 
 React specific rules were removed. Use `eslint-pluin-react` instead.
 
-* #1 Remove `eslint-plugin-jsx-a11y`
-* #1 Remove `eslint-plugin-react`
+* [#1] Remove `eslint-plugin-jsx-a11y`
+* [#1] Remove `eslint-plugin-react`
 
 #### :house: Internal
 
-* #2 Remove `eslint-plugin-jsx-a11y` and `eslint-plugin-react` peer dependencies
+* [#2] Remove `eslint-plugin-jsx-a11y` and `eslint-plugin-react` peer dependencies
 
 #### :house: Internal
 
@@ -31,5 +31,10 @@ React specific rules were removed. Use `eslint-pluin-react` instead.
 #### :house: Internal
 * Update `eslint-plugin-jsx-a11y` to v4.0.0
 
+
+[#2]: https://github.com/rearjs/eslint-config-rear/pull/2
+[#1]: https://github.com/rearjs/eslint-config-rear/pull/1
+
+[Unreleased]: https://github.com/rearjs/eslint-config-rear/compare/1.0.4...master
 [1.0.4]: https://github.com/rearjs/eslint-config-rear/compare/1.0.1...1.0.4
 [1.0.1]: https://github.com/rearjs/eslint-config-rear/tree/1.0.1
