@@ -1,19 +1,13 @@
-// Inspired by https://github.com/facebookincubator/eslint-config-react-app
-// but more opinionated.
-
-// We use eslint-loader so even warnings are very visible.
-// This is why we only use "WARNING" level for potential errors,
-// and we don't use "ERROR" level at all.
-
-// In the future, we might create a separate list of rules for production.
-// It would probably be more strict.
+// based on by https://github.com/facebookincubator/eslint-config-react-app
+// lint flowtype
+// throws warnings by default instead of errors.
 
 module.exports = {
   root: true,
 
   parser: 'babel-eslint',
 
-  plugins: ['import', 'flowtype', 'jsx-a11y', 'react'],
+  plugins: ['import', 'flowtype'],
 
   env: {
     browser: true,
@@ -27,7 +21,6 @@ module.exports = {
     ecmaVersion: 6,
     sourceType: 'module',
     ecmaFeatures: {
-      jsx: true,
       generators: true,
       experimentalObjectRestSpread: true
     }
