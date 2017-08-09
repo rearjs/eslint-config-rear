@@ -3,7 +3,7 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [1.0.5] 2017-08-09
+## [1.0.5] (2017-08-09)
 
 #### :boom: Breaking Changes
 
@@ -16,13 +16,13 @@ React specific rules were removed. Use `eslint-pluin-react` instead.
 
 * Add `CHANGELOG.md` to keep track of changes.
 
-## [1.0.4] 2017-05-21
+## [1.0.4] (2017-05-21)
 
 #### :bug: Bug Fix
 
 * Fix `jsx-a11y img-has-alt` rule requirement
 
-## [1.0.1] 2017-04-25
+## [1.0.1] (2017-04-25)
 
 #### :house: Internal
 * Update `eslint-plugin-jsx-a11y` to v4.0.0
