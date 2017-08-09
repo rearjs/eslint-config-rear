@@ -15,9 +15,6 @@ React specific rules were removed. Use `eslint-pluin-react` instead.
 #### :house: Internal
 
 * [#2] Remove `eslint-plugin-jsx-a11y` and `eslint-plugin-react` peer dependencies
-
-#### :house: Internal
-
 * Add `CHANGELOG.md` to keep track of changes.
 
 ## [1.0.4] (2017-05-21)
