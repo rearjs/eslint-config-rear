@@ -138,11 +138,6 @@ module.exports = {
     'require-yield': 'warn',
     'rest-spread-spacing': ['warn', 'never'],
     strict: ['warn', 'never'],
-    'space-before-function-paren': ['warn', {
-        'anonymous': 'always',
-        'named': 'always',
-        'asyncArrow': 'ignore'
-    }],
     'unicode-bom': ['warn', 'never'],
     'use-isnan': 'warn',
     'valid-typeof': 'warn',

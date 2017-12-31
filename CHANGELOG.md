@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+
+## [2.1.0] (2017-12-31)
+
+* Remove `space-before-function-paren` "always" and restore defaults.
+
 ## [2.0.2] (2017-12-31)
 
 * Update eslint peer dependency to v8.1.2
@@ -46,6 +51,7 @@ React specific rules were removed. Use `eslint-pluin-react` instead.
 [#3]: https://github.com/rearjs/eslint-config-rear/pull/3
 [#2]: https://github.com/rearjs/eslint-config-rear/pull/2
 [#1]: https://github.com/rearjs/eslint-config-rear/pull/1
+[2.1.0]: https://github.com/rearjs/eslint-config-rear/compare/2.0.2...2.1.0
 [2.0.2]: https://github.com/rearjs/eslint-config-rear/compare/2.0.1...2.0.2
 [2.0.1]: https://github.com/rearjs/eslint-config-rear/compare/2.0.0...2.0.1
 [2.0.0]: https://github.com/rearjs/eslint-config-rear/compare/1.0.4...2.0.0
